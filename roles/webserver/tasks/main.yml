@@ -2,3 +2,5 @@
 - include: deploy.yml tags=deploy
 - include: puma.yml tags=puma
 - include: nginx.yml tags=nginx
+- include: test.yml tags=test
+- include: mysql.yml tags=mysql
